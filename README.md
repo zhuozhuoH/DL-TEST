@@ -10,7 +10,7 @@ A curated list of references to awesome Fuzzing for security testing. Additional
 - [DLFuzz: Differential Fuzzing Testing of Deep Learning Systems, 2018](https://dl.acm.org/doi/10.1145/3236024.3264835)
 
 ### SOSP
-- [DeepXplore: Automated Whitebox Testing of Deep Learning Systems, 2017](https://dl.acm.org/doi/10.1145/3361566)
+- [DeepXplore: Automated Whitebox Testing of Deep Learning Systems, 2017](https://dl.acm.org/doi/10.1145/3132747.3132785)
 
   
 ### ISSTA 
