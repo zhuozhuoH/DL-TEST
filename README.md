@@ -41,19 +41,29 @@
 - [Mutation-based Fault Localization of Deep Neural Networks, 2023](https://dl.acm.org/doi/10.1109/ASE56229.2023.00171)
 - [CertPri: Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space, 2023](https://dl.acm.org/doi/10.1109/ASE56229.2023.00126)
 - [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection, 2024](https://dl.acm.org/doi/10.1145/3691620.3695472)
-- [Prioritizing Test Inputs for DNNs Using Training Dynamics](https://dl.acm.org/doi/pdf/10.1145/3691620.3695498)
+- [Prioritizing Test Inputs for DNNs Using Training Dynamics, 2024](https://dl.acm.org/doi/10.1145/3691620.3695498)
 
 ### ISSTA 
 - [DeepHunter: A Coverage-Guided Fuzz Testing Framework for Deep Neural Networks, 2019](https://dl.acm.org/doi/10.1145/3293882.3330579)
+- [DeepGini: Prioritizing Massive Tests to Enhance the Robustness of Deep Neural Networks, 2020](https://dl.acm.org/doi/10.1145/3395363.3397357)
 - [Effective White-Box Testing of Deep Neural Networks with Adaptive Neuron-Selection Strategy, 2020](https://dl.acm.org/doi/10.1145/3395363.3397346)
-
-
+- [DeepCrime: Mutation Testing of Deep Learning Systems Based on Real Faults, 2021](https://dl.acm.org/doi/10.1145/3460319.3464825)
+- [Exposing Previously Undetectable Faults in Deep Neural Networks, 2021](https://dl.acm.org/doi/10.1145/3460319.3464801)
+- [Automatic Test Suite Generation for Key-Points Detection DNNs using Many-Objective Search, 2021](https://dl.acm.org/doi/10.1145/3460319.3464802)
+- [ε-weakened Robustness of Deep Neural Networks, 2022](https://dl.acm.org/doi/10.1145/3533767.3534373)
+- [BET: Black-box Efficient Testing for Convolutional Neural Networks, 2022](https://dl.acm.org/doi/10.1145/3533767.3534386)
+- [DeepAtash: Focused Test Generation for Deep Learning Systems, 2023](https://dl.acm.org/doi/10.1145/3597926.3598109)
+- [In Defense of Simple Techniques for Neural Network Test Case Selection, 2023](https://dl.acm.org/doi/10.1145/3597926.3598073)
+- [CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems, 2023](https://dl.acm.org/doi/10.1145/3597926.3598093)
+- [Distance-Aware Test Input Selection for Deep Neural Networks, 2024](https://dl.acm.org/doi/10.1145/3650212.3652125)
+- [Unveiling and Escaping the Pitfalls of Error-Triggering Inputs in Neural Network Testing, 2024](https://dl.acm.org/doi/10.1145/3650212.3680385)
+- [Test Selection for Deep Neural Networks using Meta-Models with Uncertainty Metrics, 2024](https://dl.acm.org/doi/10.1145/3650212.3680312)
 
 ### SOSP
 - [DeepXplore: Automated Whitebox Testing of Deep Learning Systems, 2017](https://dl.acm.org/doi/10.1145/3132747.3132785)
 
-  
-
+### OOPSLA
+- [Deep Learning Robustness Verification for Few-Pixel Attacks, 2023](https://dl.acm.org/doi/10.1145/3586042)
 
 ### TOSEM
 - [NPC: Neuron Path Coverage via Characterizing Decision Logic of Deep Neural Network, 2022](https://dl.acm.org/doi/10.1145/3490489)
@@ -64,7 +74,6 @@
 - [Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models, 2024](https://dl.acm.org/doi/10.1145/3680464)
 - [Neuron Semantic-Guided Test Generation for Deep Neural Networks Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3688835)
 - [TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples, 2025](https://dl.acm.org/doi/10.1145/3714463)
-
 
 ### ISSRE
 - [Themis: Automatic and Efficient Deep Learning  System Testing with Strong Fault Detection  Capability, 2024](https://www.computer.org/csdl/proceedings-article/issre/2024/538800a451/22ni6MFGm3K)
