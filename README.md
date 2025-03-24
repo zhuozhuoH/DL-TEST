@@ -70,6 +70,7 @@
 - [An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement, 2022](https://dl.acm.org/doi/10.1145/3511598)
 - [Evaluating Surprise Adequacy for Deep Learning System Testing, 2023](https://dl.acm.org/doi/10.1145/3546947)
 - [Seed Selection for Testing Deep Neural Networks, 2023](https://dl.acm.org/doi/10.1145/3607190)
+- [QuoTe: Quality-oriented Testing for Deep Learning Systems, 2023](https://dl.acm.org/doi/10.1145/3582573)
 - [Test Optimization in DNN Testing: A Survey, 2024](https://dl.acm.org/doi/10.1145/3643678)
 - [Neuron Sensitivity-Guided Test Case Selection, 2024](https://dl.acm.org/doi/10.1145/3672454)
 - [Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models, 2024](https://dl.acm.org/doi/10.1145/3680464)
