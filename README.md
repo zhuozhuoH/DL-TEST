@@ -48,7 +48,6 @@
 - [DeepGini: Prioritizing Massive Tests to Enhance the Robustness of Deep Neural Networks, 2020](https://dl.acm.org/doi/10.1145/3395363.3397357)
 - [Effective White-Box Testing of Deep Neural Networks with Adaptive Neuron-Selection Strategy, 2020](https://dl.acm.org/doi/10.1145/3395363.3397346)
 - [DeepCrime: Mutation Testing of Deep Learning Systems Based on Real Faults, 2021](https://dl.acm.org/doi/10.1145/3460319.3464825)
-- [Seed selection for successful fuzzing, 2021](https://dl.acm.org/doi/10.1145/3460319.3464795)
 - [Exposing Previously Undetectable Faults in Deep Neural Networks, 2021](https://dl.acm.org/doi/10.1145/3460319.3464801)
 - [Automatic Test Suite Generation for Key-Points Detection DNNs using Many-Objective Search, 2021](https://dl.acm.org/doi/10.1145/3460319.3464802)
 - [ε-weakened Robustness of Deep Neural Networks, 2022](https://dl.acm.org/doi/10.1145/3533767.3534373)
