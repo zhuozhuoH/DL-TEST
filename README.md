@@ -74,6 +74,7 @@
 - [Neuron Sensitivity-Guided Test Case Selection, 2024](https://dl.acm.org/doi/10.1145/3672454)
 - [Context-Aware Fuzzing for Robustness Enhancement of Deep Learning Models, 2024](https://dl.acm.org/doi/10.1145/3680464)
 - [Neuron Semantic-Guided Test Generation for Deep Neural Networks Fuzzing, 2024](https://dl.acm.org/doi/10.1145/3688835)
+- [Assessing the Robustness of Test Selection Methods for Deep Neural Networks, 2025](https://dl.acm.org/doi/10.1145/3715693)
 - [TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples, 2025](https://dl.acm.org/doi/10.1145/3714463)
 
 ### ISSRE
