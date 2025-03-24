@@ -68,6 +68,7 @@
 ### TOSEM
 - [NPC: Neuron Path Coverage via Characterizing Decision Logic of Deep Neural Network, 2022](https://dl.acm.org/doi/10.1145/3490489)
 - [An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning Enhancement, 2022](https://dl.acm.org/doi/10.1145/3511598)
+- [Evaluating Surprise Adequacy for Deep Learning System Testing, 2023](https://dl.acm.org/doi/10.1145/3546947)
 - [Seed Selection for Testing Deep Neural Networks, 2023](https://dl.acm.org/doi/10.1145/3607190)
 - [Test Optimization in DNN Testing: A Survey, 2024](https://dl.acm.org/doi/10.1145/3643678)
 - [Neuron Sensitivity-Guided Test Case Selection, 2024](https://dl.acm.org/doi/10.1145/3672454)
