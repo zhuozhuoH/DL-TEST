@@ -43,10 +43,34 @@
 - [FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection, 2024](https://dl.acm.org/doi/10.1145/3691620.3695472)
 - [Prioritizing Test Inputs for DNNs Using Training Dynamics, 2024](https://dl.acm.org/doi/10.1145/3691620.3695498)
 
+### CCS
+- [Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks, 2021](https://dl.acm.org/doi/10.1145/3460120.3484538)
+- [TSS: Transformation-Specific Smoothing for Robustness Certification, 2021](https://dl.acm.org/doi/10.1145/3460120.3485258)
+- [VisionGuard: Secure and Robust Visual Perception of Autonomous Vehicles in Practice, 2024](https://dl.acm.org/doi/10.1145/3658644.3670296)
+
+### S&P
+- [SoK: How Robust is Image Classification Deep Neural Network Watermarking?, 2022](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a052/1FlQuMr0vq8)
+- [SoK: Certified Robustness for Deep Neural Networks, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a094/1OXGP5XoMpy)
+- [ObjectSeeker: Certifiably Robust Object Detection against Patch Hiding Attacks via Patch-agnostic Masking, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b366/1OXGT6zJVT2)
+- [FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a214/1WPcYG4rbMc)
+- [Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a215/1WPcYGSXMVG)
+- [It’s Simplex! Disaggregating Measures to Improve Certified Robustness, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a065/1RjEaC7sdag)
+- [Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a053/1RjEas5x5aU)
+
+### USENIX Security
+- [PatchGuard: A Provably Robust Defense against Adversarial Patches viaSmallReceptiveFieldsandMasking, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/xiang)
+- [PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier, 2022](https://www.usenix.org/conference/usenixsecurity22/presentation/xiang)
+- [PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses, 2024](https://www.usenix.org/conference/usenixsecurity24/presentation/xiang-chong)
+
+### NDSS
+- [DorPatch: Distributed and Occlusion-Robust Adversarial Patch to Evade Certifiable Defenses, 2024](https://www.ndss-symposium.org/ndss-paper/dorpatch-distributed-and-occlusion-robust-adversarial-patch-to-evade-certifiable-defenses/)
+
+
 ### ISSTA 
 - [DeepHunter: A Coverage-Guided Fuzz Testing Framework for Deep Neural Networks, 2019](https://dl.acm.org/doi/10.1145/3293882.3330579)
 - [DeepGini: Prioritizing Massive Tests to Enhance the Robustness of Deep Neural Networks, 2020](https://dl.acm.org/doi/10.1145/3395363.3397357)
 - [Effective White-Box Testing of Deep Neural Networks with Adaptive Neuron-Selection Strategy, 2020](https://dl.acm.org/doi/10.1145/3395363.3397346)
+- [Attack as defense: characterizing adversarial examples using robustness, 2021](https://dl.acm.org/doi/10.1145/3460319.3464822)
 - [DeepCrime: Mutation Testing of Deep Learning Systems Based on Real Faults, 2021](https://dl.acm.org/doi/10.1145/3460319.3464825)
 - [Exposing Previously Undetectable Faults in Deep Neural Networks, 2021](https://dl.acm.org/doi/10.1145/3460319.3464801)
 - [Automatic Test Suite Generation for Key-Points Detection DNNs using Many-Objective Search, 2021](https://dl.acm.org/doi/10.1145/3460319.3464802)
